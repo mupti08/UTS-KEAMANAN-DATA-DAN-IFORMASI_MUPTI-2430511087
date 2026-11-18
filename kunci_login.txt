@@ -1,0 +1,40 @@
+================================================================================
+KUNCI LOGIN ADMINISTRATOR FIXLAPBOT.ID (CRYPTOVAULT)
+================================================================================
+
+[1] KUNCI SIMETRIS (AES-256):
+-----------------------------
+FIXLAP-SECRET-KEY-2026
+
+
+[2] KUNCI ASIMETRIS (RSA-2048 PRIVATE KEY):
+-------------------------------------------
+-----BEGIN PRIVATE KEY-----
+MIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDgRQo5zcLsRjRP
+WyrTJ4ElkgU7SuUwu3WBpVS68EpH27OARiIt8oytCI9XyFEYYB6OjqcJXTCkitcC
+qBF0eUuX1V6xJxA+q7B4ycW2oswg6HJCJgLC9MpFP3oAQSMMLVX2WbzISCnWJPPS
+aZZgjFNp/b2OxHWvgdZK7sjulb32ttfbHm3abZI/YVo6zXuesM0gPvvr8/rpusOS
+UmqTXVokV42vo8SChDGr745niaDxWnyjGb2bxXELWPsXvH18QfhMaubuF3p2a7pq
+YIid7T7+Tx4vVVONo3ithDH4qwggTZfNCSK7yM3s8HiwjwapGIOXoBqzD9oyMNIF
+ylVLYtw5AgMBAAECggEABKY/GVuurX9MblNm2+HMckmeBNCqAmH12a43x3hb0d7i
+0HH5G21qhTEm55xQ3L8sDas0w05EnTn+TcvLhi1Nko7rMPkCWTTt/6hkikNtv/Dn
+DYAEO/kfMw2nKyzZMSjEyMqreJYmZ+N0OpR9zZqbJW4L6VMhWCDKSdtmxwDLuLr1
+D/q4PuIHdhOH/l2itATi9wXtIikyUOBErwxPimyYHk/1snCGxv43rne3TyYtaxh2
+X20uOWompGzSzqEji7cGOqhhXogLZqGtVKPbHfv83haaNIEjFtRpLz8eCMU+QUTg
+v68cOej+nkXTmmjDoEUT5IT1ndkKxwyy/uvY5BobQQKBgQD5P6qSgeXwRpaE6hvw
+9NxPG/wGzYaNbPh9KOcgx0kKZbwS6WZPi/JS/AbL8VOwOvNPYXpNGzohybuG5+Sw
+NXKmU9bXhyI6caHiTCjQ8HNk16CrntgNyGAoFVE6gCIhOb19aAOqKp8bFiTpI5wD
+rh1zZH3rkwvOsVgbq/34ZbZjHQKBgQDmWCo0ewWO29cBLHYM/VCJ12AR/lV4pztS
+2cgBblirJVgmKU6P71kXVdUUk1L5xJ6sJZHQO6MqV9Lby50bf5rzMV3KRMapB5md
+pehgJ72mAdnavZU3NKaL8tXFf3Q72Ce3Dd9NKe4O7RINnzg3y13DxvIMbeXHp6JQ
+LEsEOUUWzQKBgQCdWzt12Tpwsi/O4/oV6pC4BQPcy5555OUQJ2WbxRTw0n+lNOMZ
+r1GiYGhuEwJxzRXU9MaArYLK2BBjQD2ZnXSvW1jUowTR/vFj7A8MsfE4JgXSs6rV
+ML68L5EjrMdfUJO3+5XstZHTSOyun4Ocsyz2r+frdN9Mc5wbhD8HtjcqZQKBgHW+
+Q3SoHeM0hObYr09cfTq4mScZdt9BvJVRNWdl3HU/lZuMKdhxZH0FJvJpjFSYKPOe
+ELb8hR8z3Vj0784KoE4HwgWOum3UsLVhBTOBnPOqpo2lswyRIUEQVC2sROICT+rG
+cIqlEEcY781+weHjVn6oxzmLQ5WXHuUUfxQdoi9RAoGBAO9e8r3ENF2gfhlDcpfY
+nNHFse9L+7EiavxyOXLR/hxtnYitE9kLDjY6qpjbAg2a21O85TfiKMyrWmKnG5xQ
+Sw/pzydzKPBNY9QI2mleiDlevJU2iOa2z2WVfR5TIV5nb1Ekiiefvyx/wYh0mz0z
+Gby04BZepR2PqqqcjFPeDt/r
+-----END PRIVATE KEY-----
+================================================================================
